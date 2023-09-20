@@ -1,5 +1,5 @@
 # 2.Split-Prediction_Stock_Enhancement
-## This study presents a novel time-series prediction approach, showing improved accuracy with refined prediction granularity and varied input lengths, suggesting a fresh direction for deep learning in time-series data.
+### This study presents a novel time-series prediction approach, showing improved accuracy with refined prediction granularity and varied input lengths, suggesting a fresh direction for deep learning in time-series data.
 
 본 논문은 시계열 데이터 예측에 있어서 새로운 예측 시점 설정에 대한 가능성을 모색하는 것을 목표로 한다.
 따라서 우린 시계열 데이터를 다루는 다양한 시점을 동시에 고려하는 새로운 목표 설정 방식을 제시하며, 이를 통해 예측값의 세분화 정도와 입력 데이터의 종류가 모델 학습과 성능에 미치는 영향을 심도 있게 분석하였다.
